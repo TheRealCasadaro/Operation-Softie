@@ -1,10 +1,10 @@
 ---
 
 title: Operation Softie
-permalink: Operation Softie
+permalink: OperationSoftie
 
 ---
-# Project Softie
+# Operation Softie
 
 ## More than enough knowledge to become a capable programmer, Software Developer, Web Developer and get money to do it.
 
